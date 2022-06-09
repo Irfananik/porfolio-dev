@@ -12,15 +12,20 @@ const Nav = () => {
                         <li><a>Item 1</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+                <a className="btn btn-ghost normal-case text-xl">Web Developer</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">
-                    <li><a>Item 1</a></li>
+                    <li><a>Home</a></li>
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">My Resume</a>
+                <a className="btn"
+                    href="https://drive.google.com/file/d/1FVq1hzHXf1CzYhOoGLeiFc-5TTJ9FTRh/view?usp=sharing"
+                    download
+                >
+                    <button className="rounded-lg">My Resume</button>
+                </a>
             </div>
         </div>
     );
