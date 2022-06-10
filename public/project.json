@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.ibb.co/xh3vsfj/list-of-largest-manufacturing-companies-in-the-world-by-revenue-1.png",
+        "title": "Manufacturing company website",
+        "discription": "This website create based on manufacturing company website which name is eBikeParts using javaScript library react for fontend. Used for backend- node.js, express.js(node.js framework) and mongodb(database).",
+        "usedTech": "ReactJs, React router dom, Google firebase for authentication, React firebase hooks, React toasify, Node.js, Expressjs, MongoDb",
+        "bulletPoint": "First a homepage will appear where details of 6 items can be seen. Below each item will be a button named update. Below the item section there are tow sections || With the deleverd button, each item will be reduced to one item and with add quantity input field item will be added || There will be a section called manage item where all the items will be displayed and there will be an option to delete the item || Authentication system build with google firebase So you can not use this site without registering || There is a section called my item where the data is displayed according to the user",
+        "ss1": "https://i.ibb.co/hfYD1Jw/pss1-1.png",
+        "ss2": "https://i.ibb.co/r2xqhZk/pss1-1-1.png",
+        "ss3": "https://i.ibb.co/8xdkyb0/pss1-2-1.png"
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/0rLVZd0/antrepo-icerik-2.png",
+        "title": "Warehouse management website",
+        "discription": "This website create based on multiple items warehouse management system which name is eElectronics using javaScript library react for fontend. Used for backend- node.js, express.js(node.js framework) and mongodb(database).",
+        "usedTech": "ReactJs, React router dom, Google firebase for authentication, React firebase hooks, React toasify, Node.js, Expressjs, MongoDb",
+        "bulletPoint": "First a homepage will appear where details of 6 or more items can be seen. Below each item will be a button named oreder now || Anyone can order bike parts from here but must register || There is an admin for user maintenance || Authentication system build with google firebase So you can not use this site without registering",
+        "ss1": "https://i.ibb.co/1mnyR6b/pss2-1.png",
+        "ss2": "https://i.ibb.co/mTD0Ppf/pss2-1-1.png",
+        "ss3": "https://i.ibb.co/N1mvBjG/pss2-2-1.png"
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/K9nsYys/GST-731-36.png",
+        "title": "Independent service provider website",
+        "discription": "This website create based on independent service provider which name is techTutor using javaScript library react for fontend.",
+        "usedTech": "ReactJs, React router dom, Google firebase for authentication, React firebase hooks, React toasify, Node.js, Expressjs, MongoDb",
+        "bulletPoint": "This website create based on independent survice provider which name is TechTutorGm ||Since it is a programming learning website, anyone can enter the website with registration and buy course then learn programming || All course here are paid || Without registration you can't buy course",
+        "ss1": "https://i.ibb.co/VvTkpfp/pss3-1.png",
+        "ss2": "https://i.ibb.co/BshdgwW/pss3-1-1.png",
+        "ss3": "https://i.ibb.co/5B92cbn/pss3-2-1.png"
+    }
+]

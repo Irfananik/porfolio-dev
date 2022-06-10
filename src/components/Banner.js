@@ -16,7 +16,7 @@ const Banner = () => {
                     >
                         <button className="btn btn-primary rounded-lg">My Resume</button>
                     </a>
-                    <button id="#contact" className="btn btn-primary rounded-lg ml-2">Contact Me</button>
+                    <button id="contact" className="btn btn-primary rounded-lg ml-2">Contact Me</button>
                 </div>
             </div>
         </div>
