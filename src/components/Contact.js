@@ -17,10 +17,10 @@ const Contact = () => {
             e.target.reset()
     };
     return (
-        <div>
+        <div className="bg-base-200 py-3">
             <h1 className="text-5xl font-bold text-center mt-8">Contact Me</h1>
             <div className="flex justify-center items-center my-6">
-                <form id="contact" ref={form} onSubmit={sendEmail}>
+                <form ref={form} onSubmit={sendEmail}>
                     <label className="text-xl font-bold">Name</label><br />
                     <input className="w-80 p-3 rounded-lg" type="text" name="from_name" /><br /> <br />
                     <label className="text-xl font-bold">Email</label><br />
